@@ -6,7 +6,7 @@ const scrypt = require('scrypt')
 const sha3_256 = require('js-sha3').sha3_256;
 const cbor = require('borc')
 const CRC = require('crc')
-const ed25519 = require('bip-ed25519')
+const ed25519 = require('ed25519')
 
 //
 // Start
