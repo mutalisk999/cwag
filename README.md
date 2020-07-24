@@ -14,6 +14,16 @@ $ git clone https://github.com/ilap/cwag.git
 $ cd cwag && npm install
 ```
 
+Windows:
+
+```
+npm install --global windows-build-tools
+git clone https://github.com/ilap/cwag.git
+cd cwag
+npm install
+```
+
+
 ## Usage example
 
 It's in a very early stage 'educational purposes only software' with no any error-handling whatsoever.
